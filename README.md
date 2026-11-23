@@ -2,7 +2,7 @@
 ### Hi, ich bin Robert 👋
 
 - 🎓 **Medieninformatik-Student**
-- 💻 **Fokus:** Web-Apps & eigene 2D-Spiele von Grund auf entwickeln
+- 💻 **Fokus:** Web-Apps & eigene 2D-Spiele 
 - 🛠️ **Technologien:** C#, Java, JavaScript/React, PostgreSQL & Linux
 
 ---
