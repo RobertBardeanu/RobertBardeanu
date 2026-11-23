@@ -4,6 +4,8 @@
 <h3 align="left">Kontakt:</h3>
 <p align="left">
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RobertBardeanu&label=Profile%20views&color=0e75b6&style=flat" alt="jfjjf" /> </p>
+
 <a href="https://www.linkedin.com/in/robert-b%C3%A2rdeanu-a1a7783a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jfjjf" height="30" width="40" /></a>
 
 </p>
