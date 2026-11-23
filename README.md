@@ -9,7 +9,7 @@
 
 </p>
 
-<h3 align="left">Programmiersprachen und Frameworks:</h3>
+<h3 align="left">Sprachen und Frameworks:</h3>
 
 <p align="left"> 
 <!-- -->
