@@ -1,4 +1,4 @@
-# RobertBardeanu-RobertBardeanu
+# RobertBardeanu
 ### Hi, ich bin Robert 👋
 
 - 🎓 **Medieninformatik-Student**
